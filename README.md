@@ -1,6 +1,6 @@
 ### Arduino-related Projects
-*LED Controller
-*Another Project
+* LED Controller
+* Another Project
 
 You can use the [editor on GitHub](https://github.com/Epus/Epus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
