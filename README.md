@@ -5,4 +5,4 @@
 
 ### Game dev stuff
 
-https://epus69.itch.io/
+They are hosted [here](https://epus69.itch.io/)
