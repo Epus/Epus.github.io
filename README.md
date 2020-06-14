@@ -1,4 +1,4 @@
-### Arduino-related Projects
+### Qt Projects
 * LED Controller
 
   Application developed using Qt Quick/QML that controls an LED connected to an arduino(w/ ESP12E WiFi Shield) through WiFi.
@@ -9,7 +9,12 @@
 </figure>
 <!-- blank line -->
 
+* BMR/BMI Report Generator
 
+  Qt Widget application that generates a report that calculates BMR and BMI based from inputted data. Qt Project can be downloaded [here](https://github.com/Epus/bmicalculator).
+  
+<img src="https://github.com/Epus/bmicalculator/blob/master/sample/app.png">
+  
 * Next Project
 
 
