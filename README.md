@@ -13,7 +13,7 @@
 
   Qt Widget application that generates a report with calculated BMR and BMI based from inputted data. Qt Project can be downloaded [here](https://github.com/Epus/bmicalculator).
   
-<img src="https://github.com/Epus/bmicalculator/blob/master/sample/app.png">
+<img src="https://raw.githubusercontent.com/Epus/bmicalculator/master/sample/app.png">
   
 * Next Project
 
