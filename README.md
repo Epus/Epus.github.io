@@ -7,7 +7,7 @@
 <figure class="video_container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5XiMNbK-2kw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </figure>
-<img src="https://raw.githubusercontent.com/Epus/ledcontroller/master/screenshots/login.jpg" width="200"> <img src="https://raw.githubusercontent.com/Epus/ledcontroller/master/screenshots/controls.jpg" width="200">
+  <img src="https://raw.githubusercontent.com/Epus/ledcontroller/master/screenshots/login.jpg" width="200"> <img src="https://raw.githubusercontent.com/Epus/ledcontroller/master/screenshots/controls.jpg" width="200">
 <!-- blank line -->
 
 * BMR/BMI Report Generator
